@@ -448,6 +448,9 @@
     border: none;
     border-radius: 7px;
 }
+.but_sign:hover {
+    cursor: pointer;
+}
 .butt_sign{
     width: 100%;
     display: flex;
